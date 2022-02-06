@@ -1,6 +1,6 @@
 # Discord User
 ToxicedLOL#2010
-- https://discord.com/user/732955234489466951
+- https://discord.com/users/732955234489466951
 # Minecraft Client(s) i use
 - Lunar Client
 - Ares Client
